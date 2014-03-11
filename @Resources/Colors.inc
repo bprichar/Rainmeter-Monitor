@@ -1,0 +1,15 @@
+[Variables]
+DarkBlue=27,63,107,255
+MediumBlue=92,135,209,255
+LightBlue=207,224,255,255
+LightRed=250,148,135,255
+AlmostBlack=40,40,40,255
+DarkGreen=28,85,33,255
+MediumGreen=64,191,75,255
+LightGreen=85,255,100,255
+Orange=255,100,100,255
+DarkColor=#DarkGreen#
+MediumColor=#MediumGreen#
+LightColor=#LightGreen#
+WarnColor=#Orange#
+BackColor=#AlmostBlack#
